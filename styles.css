@@ -4,6 +4,7 @@ body {
     display: flex;
     flex-direction: column;
     background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 img {
@@ -34,7 +35,6 @@ img {
 .hero-text h2 {
     background-color: darkgreen;
     font-size: 16px;
-    font-family: Arial, Helvetica, sans-serif;
     margin-top: 20px;
     padding: 5px 10px;
     color: #EAC102;
