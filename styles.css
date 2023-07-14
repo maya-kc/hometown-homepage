@@ -12,6 +12,7 @@ img {
     height: 100px;
 }
 
+/* HERO SECTION */
 #hero-section {
     background-image: url("https://cdn.vox-cdn.com/thumbor/h3-2s63ToBhk2Lk3PTfxfAP1ZFo=/0x0:3512x2351/1200x800/filters:focal(1476x896:2036x1456)/cdn.vox-cdn.com/uploads/chorus_image/image/67870263/shutterstock_6287563.0.jpg");
     background-position: center;
@@ -42,6 +43,7 @@ img {
     border-radius: 3px;
 }
 
+/* ACTIVITIES SECTION */
 .activities-section {
     background: linear-gradient(crimson, darkred);
     padding: 20px 0px 40px 0px;
@@ -77,6 +79,7 @@ img {
     border: #EAC102 3px solid;
 }
 
+/* CARD SECTION */
 #card {
     width: 400px;
     margin: 30px auto;
